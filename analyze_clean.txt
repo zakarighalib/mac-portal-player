@@ -1,0 +1,12 @@
+Analyzing mac_portal_player...                                  
+
+   info - Angle brackets will be interpreted as HTML - lib\api\mac_portal_client.dart:150:81 - unintended_html_in_doc_comment
+   info - The parameter name 'num' matches a visible type name - lib\api\mac_portal_client.dart:182:47 - avoid_types_as_parameter_names
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profiles_screen.dart:144:56 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\screens\series_detail_screen.dart:223:47 - unnecessary_underscores
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\settings_screen.dart:87:15 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\settings_screen.dart:144:7 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\settings_screen.dart:146:7 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\utils\playback_helper.dart:59:31 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\utils\playback_helper.dart:61:34 - use_build_context_synchronously
+

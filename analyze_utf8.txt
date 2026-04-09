@@ -1,0 +1,6 @@
+﻿
+warning - The value of the field '_serverUrl' isn't used - lib\providers\app_state.dart:7:11 - unused_field
+warning - The value of the field '_macAddress' isn't used - lib\providers\app_state.dart:8:11 - unused_field
+  error - The method 'stopRendererBlending' isn't defined for the type 'VlcPlayerController' - lib\screens\player_screen.dart:76:25 - undefined_method
+  error - The name 'MyApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+
